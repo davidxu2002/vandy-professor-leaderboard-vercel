@@ -1,0 +1,46 @@
+{
+  "name": "vandy-courses",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/next-js": "^2.1.5",
+    "@chakra-ui/react": "^2.8.1",
+    "@choc-ui/chakra-autocomplete": "^5.3.0",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@types/node": "20.6.0",
+    "@types/react": "18.2.21",
+    "@types/react-dom": "18.2.7",
+    "algoliasearch": "^4.23.3",
+    "axios": "^1.6.7",
+    "eslint": "8.49.0",
+    "eslint-config-next": "13.4.19",
+    "firebase": "^10.8.0",
+    "formik": "^2.4.5",
+    "framer-motion": "^10.16.4",
+    "js-cookie": "^3.0.5",
+    "leo-profanity": "^1.7.0",
+    "moment": "^2.30.1",
+    "next": "13.4.19",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-firebase-hooks": "^5.1.1",
+    "react-icons": "^4.11.0",
+    "react-instantsearch": "^7.3.0",
+    "react-remove-scroll-bar": "^2.3.6",
+    "react-router-dom": "^6.22.3",
+    "react-slot-counter": "^2.2.5",
+    "typescript": "5.2.2",
+    "yup": "^1.3.3"
+  },
+  "devDependencies": {
+    "@types/js-cookie": "^3.0.6"
+  }
+}
